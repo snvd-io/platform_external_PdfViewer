@@ -1,7 +1,0 @@
-android_app_import {
-    name: "PdfViewerGOS",
-    product_specific: true,
-
-    apk: "prebuilt/PdfViewer.apk",
-    preprocessed: true,
-}
